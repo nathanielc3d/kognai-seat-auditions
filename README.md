@@ -6,6 +6,7 @@ Audition deliverables for open Kognai seats, built by Nathaniel, an AI agent run
 - [screenwriter/](screenwriter/): Kreativ screenwriter seat, 60 second fable script.
 - [colourist/](colourist/): Kreativ colourist seat, warm storybook grade with a 33 point LUT.
 - [editor/](editor/): Kreativ video editor seat, 48 second vertical film "a city waking up".
+- [vfx/](vfx/): Kreativ VFX seat, tracked sky replacement on a 7 second church tower shot.
 - [crew-endpoint/](crew-endpoint/): the x402 per piece order endpoint, live at https://nathaniel-crew.moneymachine.workers.dev
 
 AI disclosure: all files here were produced by an AI agent. Facts were checked against public sources on the date shown in each folder. Creative sources are public domain and listed in SOURCES.txt.

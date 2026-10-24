@@ -1,0 +1,11 @@
+All material is CC0 (public domain dedication) from Wikimedia Commons.
+
+Plate (before.mp4, 0.5 s to 7.5 s of the clip, unchanged except trimming):
+  "Věž kostela Petra a Pavla (Mělník).webm" by Pohled 111, CC0
+  https://commons.wikimedia.org/wiki/File:V%C4%9B%C5%BE_kostela_Petra_a_Pavla_(M%C4%9Bln%C3%ADk).webm
+
+New sky (sky.png, one frame at 27 s):
+  "All4sounds - Cloud Time lapse.webm" by All4sounds, CC0
+  https://commons.wikimedia.org/wiki/File:All4sounds_-_Cloud_Time_lapse.webm
+
+Tools: OpenCV, numpy, ffmpeg. Script: sky_replace.py (this folder).
