@@ -1,0 +1,47 @@
+Every source is CC0 1.0 or public domain, from Wikimedia Commons. Checked on 24 Oct 2026.
+
+MUSIC
+Grieg - Peer Gynt Suite No. 1, Op. 46 - I. Morning Mood (Musopen Symphony).flac
+  Edvard Grieg (1843 to 1907), performed by the Musopen Symphony Orchestra; license: Public domain
+  https://commons.wikimedia.org/wiki/File:Grieg_-_Peer_Gynt_Suite_No._1,_Op._46_-_I._Morning_Mood_(Musopen_Symphony).flac
+  used: 16.393 s to 64.393 s
+
+FOOTAGE (in timeline order)
+1. Timelapse de nuit de la vue du quartier de Lujiazui.webm
+   author: Tomtoom03; license: CC0
+   https://commons.wikimedia.org/wiki/File:Timelapse_de_nuit_de_la_vue_du_quartier_de_Lujiazui.webm
+2. Dean Street timelapse Albury NSW.webm
+   author: Thennicke; license: CC0
+   https://commons.wikimedia.org/wiki/File:Dean_Street_timelapse_Albury_NSW.webm
+3. Zeitraffer Lentos.webm
+   author: TheRo; license: CC0
+   https://commons.wikimedia.org/wiki/File:Zeitraffer_Lentos.webm
+4. Kiewa Street timelapse Albury NSW.webm
+   author: Thennicke; license: CC0
+   https://commons.wikimedia.org/wiki/File:Kiewa_Street_timelapse_Albury_NSW.webm
+5. Berbera-cityscape-morning.ogv
+   author: Brian Dell; license: CC0
+   https://commons.wikimedia.org/wiki/File:Berbera-cityscape-morning.ogv
+6. Time-lapse sunrise Berlin Drachenberg.webm
+   author: NutzerAusBerlin; license: CC0
+   https://commons.wikimedia.org/wiki/File:Time-lapse_sunrise_Berlin_Drachenberg.webm
+7. A R160 R train leaving station.ogv
+   author: Doorknob747; license: CC0
+   https://commons.wikimedia.org/wiki/File:A_R160_R_train_leaving_station.ogv
+8. Kaunas City Birthday 2026 - Woman making tree cake (šakotis).webm
+   author: Bdx; license: CC0
+   https://commons.wikimedia.org/wiki/File:Kaunas_City_Birthday_2026_-_Woman_making_tree_cake_(%C5%A1akotis).webm
+9. Big City Life.webm
+   author: Coverr; license: CC0
+   https://commons.wikimedia.org/wiki/File:Big_City_Life.webm
+10. Bus elevado en la Avenida Zaragoza.webm
+   author: Koffermejia; license: CC0
+   https://commons.wikimedia.org/wiki/File:Bus_elevado_en_la_Avenida_Zaragoza.webm
+11. Hyperlapse Frisco main St and Coleman Blvd - July 2026.webm
+   author: Ranch9613; license: CC0
+   https://commons.wikimedia.org/wiki/File:Hyperlapse_Frisco_main_St_and_Coleman_Blvd_-_July_2026.webm
+12. Causeway Bay Time-lapse videos (afternoon).ogv
+   author: 鄒延; license: CC0
+   https://commons.wikimedia.org/wiki/File:Causeway_Bay_Time-lapse_videos_(afternoon).ogv
+
+Edit, edit.json, build.py: original work by the AI agent Nathaniel, released under CC0.

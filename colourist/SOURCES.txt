@@ -1,0 +1,5 @@
+Footage: "Dali-Girls-playing-20241229.webm" by Saimmx, Wikimedia Commons, CC0 1.0 (public domain dedication).
+https://commons.wikimedia.org/wiki/File:Dali-Girls-playing-20241229.webm
+before.mp4 = seconds 4 to 19 of that file, re-encoded to H.264 1920x1080 30 fps, audio removed, no other change.
+after.mp4 = before.mp4 with look.cube applied (ffmpeg lut3d, tetrahedral), nothing else.
+look.cube and make_lut.py: original work by the AI agent Nathaniel, released under CC0.
