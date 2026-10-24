@@ -1,0 +1,82 @@
+[
+  {
+    "handle": "TollyLabs",
+    "name": "Tolly Labs",
+    "where": "https://registry.modelcontextprotocol.io/v0/servers?search=com.tollylabs/x402-mcp",
+    "source": "official MCP registry",
+    "segment": "x402 seller and agent marketplace (MCP server, USDC on Arc)",
+    "why_now": "Shipped x402-mcp 0.5.0 and 0.5.1 on 21 Oct 2026, adding job board tools (search, post, deliver) for agents."
+  },
+  {
+    "handle": "hermeschoosenone-debug",
+    "name": "Synthex Forge",
+    "where": "https://registry.modelcontextprotocol.io/v0/servers?search=com.synthexforge.x402/paid-agent-services",
+    "source": "official MCP registry",
+    "segment": "x402 seller (paid agent services, USDC on Base)",
+    "why_now": "Published the Synthex x402 client SDK in Python and TypeScript on 21 Oct 2026, with local Ed25519 verification of signed results."
+  },
+  {
+    "handle": "k-agentpay",
+    "name": "K-AgentPay",
+    "where": "https://registry.modelcontextprotocol.io/v0/servers?search=com.k-agentpay/kaia-x402",
+    "source": "official MCP registry",
+    "segment": "x402 seller (Korea travel and K-pop live data MCP server)",
+    "why_now": "Registered kaia-x402 0.3.1 in the MCP registry on 15 Oct 2026 with a one click MCPB bundle for Claude Desktop."
+  },
+  {
+    "handle": "neuronto",
+    "name": "Neuronto Pay",
+    "where": "https://registry.modelcontextprotocol.io/v0/servers?search=com.neuronto/x402-payments-facilitator",
+    "source": "official MCP registry",
+    "segment": "x402 facilitator and starter templates",
+    "why_now": "Released version 1.1.0 of its x402 facilitator MCP on 3 Oct 2026 (put any API behind x402, settle USDC on Base) next to its x402-starters repository."
+  },
+  {
+    "handle": "OgenaLabs",
+    "name": "Ogena Labs",
+    "where": "https://registry.modelcontextprotocol.io/v0/servers?search=com.ogenalabs/token-risk-x402",
+    "source": "official MCP registry",
+    "segment": "x402 seller (token risk, pump.fun radar and checkout MCP servers)",
+    "why_now": "Published three x402 MCP servers in September 2026 (token-risk, signals-edge, gate402) and moved token-risk-mcp to the x402 v2 payment flow."
+  },
+  {
+    "handle": "ACJLabs",
+    "name": "ACJ Labs",
+    "where": "https://registry.modelcontextprotocol.io/v0/servers?search=com.acjlabs/x402-listing-monitor",
+    "source": "official MCP registry",
+    "segment": "x402 seller tooling (Bazaar listing watchdog, MCP server and HTTPS API)",
+    "why_now": "Built x402-listing-monitor, which polls the Bazaar discovery catalog and alerts sellers when their listed resources drop out."
+  },
+  {
+    "handle": "RipperMercs",
+    "name": "TensorFeed",
+    "where": "https://registry.modelcontextprotocol.io/v0/servers?search=ai.tensorfeed/x402-base-mcp",
+    "source": "official MCP registry",
+    "segment": "x402 infrastructure (read only Base payment verification MCP server)",
+    "why_now": "Patched tensorfeed-x402-base-mcp on 14 Oct 2026; version 0.2.1 verifies x402 settlements on Base mainnet."
+  },
+  {
+    "handle": "bluetieroperations-create",
+    "name": "Black_Wall",
+    "where": "https://registry.modelcontextprotocol.io/v0/servers?search=com.blackwalltier/blackwall-x402-guardrail",
+    "source": "official MCP registry",
+    "segment": "x402 payment risk oracle (hosted keyless MCP server)",
+    "why_now": "Released blackwall-x402-guardrail 0.1.2 as a keyless hosted MCP that returns a GO, HOLD or STOP verdict with a signed receipt before an agent pays."
+  },
+  {
+    "handle": "CFP-102",
+    "name": "CFP SEO Agent",
+    "where": "https://github.com/CFP-102/cfp-seo-agent",
+    "source": "public GitHub",
+    "segment": "x402 seller (pay per call SEO data API, REST and MCP, USDC on Base)",
+    "why_now": "Pushed content planning services for agencies and video teams to cfp-seo-agent on 24 Oct 2026."
+  },
+  {
+    "handle": "originallgb",
+    "name": "Veristat",
+    "where": "https://github.com/originallgb/veristat",
+    "source": "public GitHub",
+    "segment": "x402 MCP server in progress (multi model verification on Cloudflare Workers, testnet only)",
+    "why_now": "Merged an MCP SDK 1.32.1 security update to veristat on 24 Oct 2026; still testnet only, so it could start selling on mainnet."
+  }
+]
