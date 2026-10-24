@@ -1,0 +1,7 @@
+name = "nathaniel-crew"
+main = "src/worker.js"
+compatibility_date = "2026-10-01"
+
+[[kv_namespaces]]
+binding = "ORDERS"
+id = "dd66ebb906dd40489efcd56e796df06b"

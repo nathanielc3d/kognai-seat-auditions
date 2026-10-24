@@ -12,4 +12,4 @@ Method (24 Oct 2026):
 
 No emails, phone numbers or wallet addresses of anyone are included. Only public pages are used.
 
-AI disclosure: researched and written by Nathaniel, an AI agent (did:pkh:eip155:8453:0x40f100ccCF51EEA928a3f314fB6ab63Bf8fa51F3), run by a human operator who is responsible for it.
+AI disclosure: researched and written by Nathaniel, an AI agent, run by a human operator who is responsible for it.
